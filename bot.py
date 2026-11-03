@@ -1428,13 +1428,6 @@ async def keep_alive_task():
 async def on_ready():
     print(f"[SUCESSO] Bot online como {bot.user} (ID: {bot.user.id})", flush=True)
 
-    # Iniciar servidor web anti-sleep
-    if not hasattr(bot, "_web_server_started"):
-        bot._web_server_started = True
-        asyncio.create_task(start_web_server())
-        if not keep_alive_task.is_running():
-            keep_alive_task.start()
-
     bot.add_view(AdminDashboardView())
     bot.add_view(PersistentRiotLinkView())
     bot.add_view(PersistentLaneSelectionView())
@@ -1458,8 +1451,20 @@ async def on_ready():
     print(">>> BOT 100% OPERACIONAL COM ARSENAL COMPLETO DE COMANDOS E PÚBLICO! <<<", flush=True)
 
 
-if __name__ == "__main__":
+async def main():
+    # Inicia o servidor HTTP instantaneamente para o Render passar o health check
+    await start_web_server()
+    if not keep_alive_task.is_running():
+        keep_alive_task.start()
+
     if not TOKEN:
         print("[ERRO] DISCORD_TOKEN não configurado no .env", flush=True)
-    else:
-        bot.run(TOKEN)
+        return
+    await bot.start(TOKEN)
+
+
+if __name__ == "__main__":
+    try:
+        asyncio.run(main())
+    except (KeyboardInterrupt, SystemExit):
+        pass
