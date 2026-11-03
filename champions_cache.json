@@ -1,0 +1,1692 @@
+{
+  "version": "16.21.1",
+  "champions": {
+    "266": {
+      "id": "Aatrox",
+      "name": "Aatrox",
+      "title": "a Espada Darkin",
+      "tags": [
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Aatrox.png"
+    },
+    "103": {
+      "id": "Ahri",
+      "name": "Ahri",
+      "title": "a Raposa de Nove Caudas",
+      "tags": [
+        "Mage",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ahri.png"
+    },
+    "84": {
+      "id": "Akali",
+      "name": "Akali",
+      "title": "a Assassina Renegada",
+      "tags": [
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Akali.png"
+    },
+    "166": {
+      "id": "Akshan",
+      "name": "Akshan",
+      "title": "o Sentinela Rebelde",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Akshan.png"
+    },
+    "12": {
+      "id": "Alistar",
+      "name": "Alistar",
+      "title": "o Minotauro",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Alistar.png"
+    },
+    "799": {
+      "id": "Ambessa",
+      "name": "Ambessa",
+      "title": "Matriarca da Guerra",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ambessa.png"
+    },
+    "32": {
+      "id": "Amumu",
+      "name": "Amumu",
+      "title": "a Múmia Triste",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Amumu.png"
+    },
+    "34": {
+      "id": "Anivia",
+      "name": "Anivia",
+      "title": "a Criofênix",
+      "tags": [
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Anivia.png"
+    },
+    "1": {
+      "id": "Annie",
+      "name": "Annie",
+      "title": "a Criança Sombria",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Annie.png"
+    },
+    "523": {
+      "id": "Aphelios",
+      "name": "Aphelios",
+      "title": "a Arma dos Devotos",
+      "tags": [
+        "Marksman"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Aphelios.png"
+    },
+    "22": {
+      "id": "Ashe",
+      "name": "Ashe",
+      "title": "a Arqueira do Gelo",
+      "tags": [
+        "Marksman",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ashe.png"
+    },
+    "136": {
+      "id": "AurelionSol",
+      "name": "Aurelion Sol",
+      "title": "o Forjador de Estrelas",
+      "tags": [
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/AurelionSol.png"
+    },
+    "893": {
+      "id": "Aurora",
+      "name": "Aurora",
+      "title": "a Bruxa Entre Mundos",
+      "tags": [
+        "Mage",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Aurora.png"
+    },
+    "268": {
+      "id": "Azir",
+      "name": "Azir",
+      "title": "o Imperador das Areias",
+      "tags": [
+        "Mage",
+        "Marksman"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Azir.png"
+    },
+    "432": {
+      "id": "Bard",
+      "name": "Bardo",
+      "title": "o Protetor Andarilho",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Bard.png"
+    },
+    "200": {
+      "id": "Belveth",
+      "name": "Bel'Veth",
+      "title": "a Imperatriz do Vazio",
+      "tags": [
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Belveth.png"
+    },
+    "53": {
+      "id": "Blitzcrank",
+      "name": "Blitzcrank",
+      "title": "o Grande Golem a Vapor",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Blitzcrank.png"
+    },
+    "63": {
+      "id": "Brand",
+      "name": "Brand",
+      "title": "a Vingança Flamejante",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Brand.png"
+    },
+    "201": {
+      "id": "Braum",
+      "name": "Braum",
+      "title": "o Coração de Freljord",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Braum.png"
+    },
+    "233": {
+      "id": "Briar",
+      "name": "Briar",
+      "title": "a Fome Contida",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Briar.png"
+    },
+    "51": {
+      "id": "Caitlyn",
+      "name": "Caitlyn",
+      "title": "a Xerife de Piltover",
+      "tags": [
+        "Marksman"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Caitlyn.png"
+    },
+    "164": {
+      "id": "Camille",
+      "name": "Camille",
+      "title": "a Sombra de Aço",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Camille.png"
+    },
+    "69": {
+      "id": "Cassiopeia",
+      "name": "Cassiopeia",
+      "title": "o Abraço da Serpente",
+      "tags": [
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Cassiopeia.png"
+    },
+    "31": {
+      "id": "Chogath",
+      "name": "Cho'Gath",
+      "title": "o Terror do Vazio",
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Chogath.png"
+    },
+    "42": {
+      "id": "Corki",
+      "name": "Corki",
+      "title": "o Bombardeiro Ousado",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Corki.png"
+    },
+    "122": {
+      "id": "Darius",
+      "name": "Darius",
+      "title": "a Mão de Noxus",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Darius.png"
+    },
+    "131": {
+      "id": "Diana",
+      "name": "Diana",
+      "title": "o Escárnio da Lua",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Diana.png"
+    },
+    "119": {
+      "id": "Draven",
+      "name": "Draven",
+      "title": "o Carrasco de Noxus",
+      "tags": [
+        "Marksman"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Draven.png"
+    },
+    "36": {
+      "id": "DrMundo",
+      "name": "Dr. Mundo",
+      "title": "o Louco de Zaun",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/DrMundo.png"
+    },
+    "245": {
+      "id": "Ekko",
+      "name": "Ekko",
+      "title": "o Rapaz que Estilhaçou o Tempo",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ekko.png"
+    },
+    "60": {
+      "id": "Elise",
+      "name": "Elise",
+      "title": "a Aranha Rainha",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Elise.png"
+    },
+    "28": {
+      "id": "Evelynn",
+      "name": "Evelynn",
+      "title": "o Abraço da Agonia",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Evelynn.png"
+    },
+    "81": {
+      "id": "Ezreal",
+      "name": "Ezreal",
+      "title": "o Explorador Pródigo",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ezreal.png"
+    },
+    "9": {
+      "id": "Fiddlesticks",
+      "name": "Fiddlesticks",
+      "title": "o Terror Ancestral",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Fiddlesticks.png"
+    },
+    "114": {
+      "id": "Fiora",
+      "name": "Fiora",
+      "title": "a Grande Duelista",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Fiora.png"
+    },
+    "105": {
+      "id": "Fizz",
+      "name": "Fizz",
+      "title": "o Trapaceiro das Marés",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Fizz.png"
+    },
+    "3": {
+      "id": "Galio",
+      "name": "Galio",
+      "title": "o Colosso",
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Galio.png"
+    },
+    "41": {
+      "id": "Gangplank",
+      "name": "Gangplank",
+      "title": "o Terror dos Doze Mares",
+      "tags": [
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Gangplank.png"
+    },
+    "86": {
+      "id": "Garen",
+      "name": "Garen",
+      "title": "o Poder de Demacia",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Garen.png"
+    },
+    "150": {
+      "id": "Gnar",
+      "name": "Gnar",
+      "title": "o Yordle Pré-Histórico",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Gnar.png"
+    },
+    "79": {
+      "id": "Gragas",
+      "name": "Gragas",
+      "title": "o Badernista",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Gragas.png"
+    },
+    "104": {
+      "id": "Graves",
+      "name": "Graves",
+      "title": "o Foragido",
+      "tags": [
+        "Marksman"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Graves.png"
+    },
+    "887": {
+      "id": "Gwen",
+      "name": "Gwen",
+      "title": "A Costureira Encantada",
+      "tags": [
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Gwen.png"
+    },
+    "120": {
+      "id": "Hecarim",
+      "name": "Hecarim",
+      "title": "a Sombra da Guerra",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Hecarim.png"
+    },
+    "74": {
+      "id": "Heimerdinger",
+      "name": "Heimerdinger",
+      "title": "o Inventor Idolatrado",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Heimerdinger.png"
+    },
+    "910": {
+      "id": "Hwei",
+      "name": "Hwei",
+      "title": "o Visionário",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Hwei.png"
+    },
+    "420": {
+      "id": "Illaoi",
+      "name": "Illaoi",
+      "title": "a Sacerdotisa Cráquem",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Illaoi.png"
+    },
+    "39": {
+      "id": "Irelia",
+      "name": "Irelia",
+      "title": "a Dançarina das Lâminas",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Irelia.png"
+    },
+    "427": {
+      "id": "Ivern",
+      "name": "Ivern",
+      "title": "o Pai do Verde",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ivern.png"
+    },
+    "40": {
+      "id": "Janna",
+      "name": "Janna",
+      "title": "a Fúria da Tormenta",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Janna.png"
+    },
+    "59": {
+      "id": "JarvanIV",
+      "name": "Jarvan IV",
+      "title": "o Exemplo de Demacia",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/JarvanIV.png"
+    },
+    "24": {
+      "id": "Jax",
+      "name": "Jax",
+      "title": "o Grão-Mestre das Armas",
+      "tags": [
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Jax.png"
+    },
+    "126": {
+      "id": "Jayce",
+      "name": "Jayce",
+      "title": "o Defensor do Amanhã",
+      "tags": [
+        "Fighter",
+        "Marksman"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Jayce.png"
+    },
+    "202": {
+      "id": "Jhin",
+      "name": "Jhin",
+      "title": "o Virtuoso",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Jhin.png"
+    },
+    "222": {
+      "id": "Jinx",
+      "name": "Jinx",
+      "title": "o Gatilho Desenfreado",
+      "tags": [
+        "Marksman"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Jinx.png"
+    },
+    "145": {
+      "id": "Kaisa",
+      "name": "Kai'Sa",
+      "title": "a Filha do Vazio",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kaisa.png"
+    },
+    "429": {
+      "id": "Kalista",
+      "name": "Kalista",
+      "title": "a Lança da Vingança",
+      "tags": [
+        "Marksman"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kalista.png"
+    },
+    "43": {
+      "id": "Karma",
+      "name": "Karma",
+      "title": "a Iluminada",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Karma.png"
+    },
+    "30": {
+      "id": "Karthus",
+      "name": "Karthus",
+      "title": "a Voz Mortal",
+      "tags": [
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Karthus.png"
+    },
+    "38": {
+      "id": "Kassadin",
+      "name": "Kassadin",
+      "title": "o Andarilho do Vazio",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kassadin.png"
+    },
+    "55": {
+      "id": "Katarina",
+      "name": "Katarina",
+      "title": "a Lâmina Sinistra",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Katarina.png"
+    },
+    "10": {
+      "id": "Kayle",
+      "name": "Kayle",
+      "title": "a Justa",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kayle.png"
+    },
+    "141": {
+      "id": "Kayn",
+      "name": "Kayn",
+      "title": "o Ceifador das Sombras",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kayn.png"
+    },
+    "85": {
+      "id": "Kennen",
+      "name": "Kennen",
+      "title": "o Coração da Tempestade",
+      "tags": [
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kennen.png"
+    },
+    "121": {
+      "id": "Khazix",
+      "name": "Kha'Zix",
+      "title": "o Ceifador do Vazio",
+      "tags": [
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Khazix.png"
+    },
+    "203": {
+      "id": "Kindred",
+      "name": "Kindred",
+      "title": "os Caçadores Eternos",
+      "tags": [
+        "Marksman"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kindred.png"
+    },
+    "240": {
+      "id": "Kled",
+      "name": "Kled",
+      "title": "o Cavaleiro Intratável",
+      "tags": [
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Kled.png"
+    },
+    "96": {
+      "id": "KogMaw",
+      "name": "Kog'Maw",
+      "title": "a Boca do Abismo",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/KogMaw.png"
+    },
+    "897": {
+      "id": "KSante",
+      "name": "K'Sante",
+      "title": "o Orgulho de Nazumah.",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/KSante.png"
+    },
+    "7": {
+      "id": "Leblanc",
+      "name": "LeBlanc",
+      "title": "a Farsante",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Leblanc.png"
+    },
+    "64": {
+      "id": "LeeSin",
+      "name": "Lee Sin",
+      "title": "o Monge Cego",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/LeeSin.png"
+    },
+    "89": {
+      "id": "Leona",
+      "name": "Leona",
+      "title": "a Alvorada Radiante",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Leona.png"
+    },
+    "876": {
+      "id": "Lillia",
+      "name": "Lillia",
+      "title": "o Florir Receoso",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Lillia.png"
+    },
+    "127": {
+      "id": "Lissandra",
+      "name": "Lissandra",
+      "title": "a Bruxa Gélida",
+      "tags": [
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Lissandra.png"
+    },
+    "805": {
+      "id": "Locke",
+      "name": "Locke",
+      "title": "o Exorcista das Cinzas",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Locke.png"
+    },
+    "236": {
+      "id": "Lucian",
+      "name": "Lucian",
+      "title": "o Purificador",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Lucian.png"
+    },
+    "117": {
+      "id": "Lulu",
+      "name": "Lulu",
+      "title": "a Fada Feiticeira",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Lulu.png"
+    },
+    "99": {
+      "id": "Lux",
+      "name": "Lux",
+      "title": "a Dama da Luz",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Lux.png"
+    },
+    "54": {
+      "id": "Malphite",
+      "name": "Malphite",
+      "title": "o Fragmento do Monolito",
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Malphite.png"
+    },
+    "90": {
+      "id": "Malzahar",
+      "name": "Malzahar",
+      "title": "o Profeta do Vazio",
+      "tags": [
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Malzahar.png"
+    },
+    "57": {
+      "id": "Maokai",
+      "name": "Maokai",
+      "title": "o Ente Sinistro",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Maokai.png"
+    },
+    "11": {
+      "id": "MasterYi",
+      "name": "Master Yi",
+      "title": "o Espadachim Wuju",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/MasterYi.png"
+    },
+    "800": {
+      "id": "Mel",
+      "name": "Mel",
+      "title": "o Reflexo da Alma",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Mel.png"
+    },
+    "902": {
+      "id": "Milio",
+      "name": "Milio",
+      "title": "A Chama Gentil",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Milio.png"
+    },
+    "21": {
+      "id": "MissFortune",
+      "name": "Miss Fortune",
+      "title": "a Caçadora de Recompensas",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/MissFortune.png"
+    },
+    "62": {
+      "id": "MonkeyKing",
+      "name": "Wukong",
+      "title": "o Macaco Rei",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/MonkeyKing.png"
+    },
+    "82": {
+      "id": "Mordekaiser",
+      "name": "Mordekaiser",
+      "title": "o Revenã de Ferro",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Mordekaiser.png"
+    },
+    "25": {
+      "id": "Morgana",
+      "name": "Morgana",
+      "title": "a Caída",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Morgana.png"
+    },
+    "950": {
+      "id": "Naafiri",
+      "name": "Naafiri",
+      "title": "Fera das Cem Mordidas",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Naafiri.png"
+    },
+    "267": {
+      "id": "Nami",
+      "name": "Nami",
+      "title": "a Conjuradora das Marés",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nami.png"
+    },
+    "75": {
+      "id": "Nasus",
+      "name": "Nasus",
+      "title": "o Curador das Areias",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nasus.png"
+    },
+    "111": {
+      "id": "Nautilus",
+      "name": "Nautilus",
+      "title": "o Titã das Profundezas",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nautilus.png"
+    },
+    "518": {
+      "id": "Neeko",
+      "name": "Neeko",
+      "title": "a Camaleoa Curiosa",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Neeko.png"
+    },
+    "76": {
+      "id": "Nidalee",
+      "name": "Nidalee",
+      "title": "a Caçadora Bestial",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nidalee.png"
+    },
+    "895": {
+      "id": "Nilah",
+      "name": "Nilah",
+      "title": "a Alegria Irrestrita",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nilah.png"
+    },
+    "56": {
+      "id": "Nocturne",
+      "name": "Nocturne",
+      "title": "o Eterno Pesadelo",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nocturne.png"
+    },
+    "20": {
+      "id": "Nunu",
+      "name": "Nunu e Willump",
+      "title": "o Garoto e seu Yeti",
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Nunu.png"
+    },
+    "2": {
+      "id": "Olaf",
+      "name": "Olaf",
+      "title": "o Berserker",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Olaf.png"
+    },
+    "61": {
+      "id": "Orianna",
+      "name": "Orianna",
+      "title": "a Donzela Mecânica",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Orianna.png"
+    },
+    "516": {
+      "id": "Ornn",
+      "name": "Ornn",
+      "title": "O Fogo sob a Montanha",
+      "tags": [
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ornn.png"
+    },
+    "80": {
+      "id": "Pantheon",
+      "name": "Pantheon",
+      "title": "a Lança Indestrutível",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Pantheon.png"
+    },
+    "78": {
+      "id": "Poppy",
+      "name": "Poppy",
+      "title": "a Guardiã do Martelo",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Poppy.png"
+    },
+    "555": {
+      "id": "Pyke",
+      "name": "Pyke",
+      "title": "o Estripador das Águas Sangrentas",
+      "tags": [
+        "Support",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Pyke.png"
+    },
+    "246": {
+      "id": "Qiyana",
+      "name": "Qiyana",
+      "title": "a Imperatriz dos Elementos",
+      "tags": [
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Qiyana.png"
+    },
+    "133": {
+      "id": "Quinn",
+      "name": "Quinn",
+      "title": "as Asas de Demacia",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Quinn.png"
+    },
+    "497": {
+      "id": "Rakan",
+      "name": "Rakan",
+      "title": "O Charmoso",
+      "tags": [
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Rakan.png"
+    },
+    "33": {
+      "id": "Rammus",
+      "name": "Rammus",
+      "title": "o Tatu Blindado",
+      "tags": [
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Rammus.png"
+    },
+    "421": {
+      "id": "RekSai",
+      "name": "Rek'Sai",
+      "title": "a Escavadora do Vazio",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/RekSai.png"
+    },
+    "526": {
+      "id": "Rell",
+      "name": "Rell",
+      "title": "a Dama de Ferro",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Rell.png"
+    },
+    "888": {
+      "id": "Renata",
+      "name": "Renata Glasc",
+      "title": "a Baronesa da Química",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Renata.png"
+    },
+    "58": {
+      "id": "Renekton",
+      "name": "Renekton",
+      "title": "o Carniceiro das Areias",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Renekton.png"
+    },
+    "107": {
+      "id": "Rengar",
+      "name": "Rengar",
+      "title": "o Acossador da Alcateia",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Rengar.png"
+    },
+    "92": {
+      "id": "Riven",
+      "name": "Riven",
+      "title": "a Exilada",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Riven.png"
+    },
+    "68": {
+      "id": "Rumble",
+      "name": "Rumble",
+      "title": "a Ameaça Mecânica",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Rumble.png"
+    },
+    "13": {
+      "id": "Ryze",
+      "name": "Ryze",
+      "title": "o Mago Rúnico",
+      "tags": [
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ryze.png"
+    },
+    "360": {
+      "id": "Samira",
+      "name": "Samira",
+      "title": "a Rosa do Deserto",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Samira.png"
+    },
+    "113": {
+      "id": "Sejuani",
+      "name": "Sejuani",
+      "title": "a Fúria do Norte",
+      "tags": [
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sejuani.png"
+    },
+    "235": {
+      "id": "Senna",
+      "name": "Senna",
+      "title": "A Redentora",
+      "tags": [
+        "Support",
+        "Marksman"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Senna.png"
+    },
+    "147": {
+      "id": "Seraphine",
+      "name": "Seraphine",
+      "title": "a Cantora Sonhadora",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Seraphine.png"
+    },
+    "875": {
+      "id": "Sett",
+      "name": "Sett",
+      "title": "o Chefe",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sett.png"
+    },
+    "35": {
+      "id": "Shaco",
+      "name": "Shaco",
+      "title": "o Bufão Demoníaco",
+      "tags": [
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Shaco.png"
+    },
+    "98": {
+      "id": "Shen",
+      "name": "Shen",
+      "title": "o Olho do Crepúsculo",
+      "tags": [
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Shen.png"
+    },
+    "102": {
+      "id": "Shyvana",
+      "name": "Shyvana",
+      "title": "a Meio-Dragão",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Shyvana.png"
+    },
+    "27": {
+      "id": "Singed",
+      "name": "Singed",
+      "title": "o Químico Louco",
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Singed.png"
+    },
+    "14": {
+      "id": "Sion",
+      "name": "Sion",
+      "title": "o Colosso Morto-Vivo",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sion.png"
+    },
+    "15": {
+      "id": "Sivir",
+      "name": "Sivir",
+      "title": "a Mestra da Batalha",
+      "tags": [
+        "Marksman"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sivir.png"
+    },
+    "72": {
+      "id": "Skarner",
+      "name": "Skarner",
+      "title": "o Soberano Primordial",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Skarner.png"
+    },
+    "901": {
+      "id": "Smolder",
+      "name": "Smolder",
+      "title": "o Filhote Flamejante",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Smolder.png"
+    },
+    "37": {
+      "id": "Sona",
+      "name": "Sona",
+      "title": "a Mestra das Cordas",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sona.png"
+    },
+    "16": {
+      "id": "Soraka",
+      "name": "Soraka",
+      "title": "a Filha das Estrelas",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Soraka.png"
+    },
+    "50": {
+      "id": "Swain",
+      "name": "Swain",
+      "title": "o Grande General Noxiano",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Swain.png"
+    },
+    "517": {
+      "id": "Sylas",
+      "name": "Sylas",
+      "title": "o Abjugado",
+      "tags": [
+        "Mage",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Sylas.png"
+    },
+    "134": {
+      "id": "Syndra",
+      "name": "Syndra",
+      "title": "a Soberana Sombria",
+      "tags": [
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Syndra.png"
+    },
+    "223": {
+      "id": "TahmKench",
+      "name": "Tahm Kench",
+      "title": "o Rei do Rio",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/TahmKench.png"
+    },
+    "163": {
+      "id": "Taliyah",
+      "name": "Taliyah",
+      "title": "a Tecelã de Pedras",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Taliyah.png"
+    },
+    "91": {
+      "id": "Talon",
+      "name": "Talon",
+      "title": "a Sombra da Lâmina",
+      "tags": [
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Talon.png"
+    },
+    "44": {
+      "id": "Taric",
+      "name": "Taric",
+      "title": "o Escudo de Valoran",
+      "tags": [
+        "Support",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Taric.png"
+    },
+    "17": {
+      "id": "Teemo",
+      "name": "Teemo",
+      "title": "o Explorador Veloz",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Teemo.png"
+    },
+    "412": {
+      "id": "Thresh",
+      "name": "Thresh",
+      "title": "o Guardião das Correntes",
+      "tags": [
+        "Support",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Thresh.png"
+    },
+    "18": {
+      "id": "Tristana",
+      "name": "Tristana",
+      "title": "a Artilheira Yordle",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Tristana.png"
+    },
+    "48": {
+      "id": "Trundle",
+      "name": "Trundle",
+      "title": "o Rei dos Trolls",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Trundle.png"
+    },
+    "23": {
+      "id": "Tryndamere",
+      "name": "Tryndamere",
+      "title": "o Rei Bárbaro",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Tryndamere.png"
+    },
+    "4": {
+      "id": "TwistedFate",
+      "name": "Twisted Fate",
+      "title": "o Mestre das Cartas",
+      "tags": [
+        "Mage",
+        "Marksman"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/TwistedFate.png"
+    },
+    "29": {
+      "id": "Twitch",
+      "name": "Twitch",
+      "title": "o Semeador da Peste",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Twitch.png"
+    },
+    "77": {
+      "id": "Udyr",
+      "name": "Udyr",
+      "title": "o Andarilho Espiritual",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Udyr.png"
+    },
+    "6": {
+      "id": "Urgot",
+      "name": "Urgot",
+      "title": "o Encouraçado",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Urgot.png"
+    },
+    "110": {
+      "id": "Varus",
+      "name": "Varus",
+      "title": "a Flecha da Vingança",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Varus.png"
+    },
+    "67": {
+      "id": "Vayne",
+      "name": "Vayne",
+      "title": "a Caçadora Noturna",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Vayne.png"
+    },
+    "45": {
+      "id": "Veigar",
+      "name": "Veigar",
+      "title": "o Pequeno Mestre do Mal",
+      "tags": [
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Veigar.png"
+    },
+    "161": {
+      "id": "Velkoz",
+      "name": "Vel'Koz",
+      "title": "o Olho do Vazio",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Velkoz.png"
+    },
+    "711": {
+      "id": "Vex",
+      "name": "Vex",
+      "title": "a Melancolista",
+      "tags": [
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Vex.png"
+    },
+    "254": {
+      "id": "Vi",
+      "name": "Vi",
+      "title": "a Defensora de Piltover",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Vi.png"
+    },
+    "234": {
+      "id": "Viego",
+      "name": "Viego",
+      "title": "O Rei Destruído",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Viego.png"
+    },
+    "112": {
+      "id": "Viktor",
+      "name": "Viktor",
+      "title": "o Arauto do Arcano",
+      "tags": [
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Viktor.png"
+    },
+    "8": {
+      "id": "Vladimir",
+      "name": "Vladimir",
+      "title": "o Sanguinário Escarlate",
+      "tags": [
+        "Mage",
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Vladimir.png"
+    },
+    "106": {
+      "id": "Volibear",
+      "name": "Volibear",
+      "title": "a Tempestade Implacável",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Volibear.png"
+    },
+    "19": {
+      "id": "Warwick",
+      "name": "Warwick",
+      "title": "a Ira Desimpedida de Zaun",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Warwick.png"
+    },
+    "498": {
+      "id": "Xayah",
+      "name": "Xayah",
+      "title": "a Rebelde",
+      "tags": [
+        "Marksman"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Xayah.png"
+    },
+    "101": {
+      "id": "Xerath",
+      "name": "Xerath",
+      "title": "o Mago Ascendente",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Xerath.png"
+    },
+    "5": {
+      "id": "XinZhao",
+      "name": "Xin Zhao",
+      "title": "o Senescal de Demacia",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/XinZhao.png"
+    },
+    "157": {
+      "id": "Yasuo",
+      "name": "Yasuo",
+      "title": "o Imperdoável",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Yasuo.png"
+    },
+    "777": {
+      "id": "Yone",
+      "name": "Yone",
+      "title": "o Inesquecido",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Yone.png"
+    },
+    "83": {
+      "id": "Yorick",
+      "name": "Yorick",
+      "title": "o Pastor de Almas",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Yorick.png"
+    },
+    "804": {
+      "id": "Yunara",
+      "name": "Yunara",
+      "title": "a Fé Inabalável",
+      "tags": [
+        "Marksman"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Yunara.png"
+    },
+    "350": {
+      "id": "Yuumi",
+      "name": "Yuumi",
+      "title": "a Gata Mágica",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Yuumi.png"
+    },
+    "904": {
+      "id": "Zaahen",
+      "name": "Zaahen",
+      "title": "O Indissociável",
+      "tags": [
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zaahen.png"
+    },
+    "154": {
+      "id": "Zac",
+      "name": "Zac",
+      "title": "a Arma Secreta",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zac.png"
+    },
+    "238": {
+      "id": "Zed",
+      "name": "Zed",
+      "title": "o Mestre das Sombras",
+      "tags": [
+        "Assassin"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zed.png"
+    },
+    "221": {
+      "id": "Zeri",
+      "name": "Zeri",
+      "title": "A Faísca de Zaun",
+      "tags": [
+        "Marksman"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zeri.png"
+    },
+    "115": {
+      "id": "Ziggs",
+      "name": "Ziggs",
+      "title": "o Especialista em Hexplosivos",
+      "tags": [
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Ziggs.png"
+    },
+    "26": {
+      "id": "Zilean",
+      "name": "Zilean",
+      "title": "o Guardião do Tempo",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zilean.png"
+    },
+    "142": {
+      "id": "Zoe",
+      "name": "Zoe",
+      "title": "o Aspecto do Crepúsculo",
+      "tags": [
+        "Mage"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zoe.png"
+    },
+    "143": {
+      "id": "Zyra",
+      "name": "Zyra",
+      "title": "a Ascensão dos Espinhos",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "icon": "https://ddragon.leagueoflegends.com/cdn/16.21.1/img/champion/Zyra.png"
+    }
+  }
+}

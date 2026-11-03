@@ -1,0 +1,35 @@
+{
+  "219156433139269632": {
+    "riot_id": "MorphelJpa#morph",
+    "puuid": "6qVXRgsEh-2MKDogp_6_YcuBiQXuNnSspJxx7RdnZJ6iWTXOF_dDcTfE062AMTZKOIJduzk9kCiP6g",
+    "tier": "PLATINUM",
+    "rank": "II",
+    "lp": 32,
+    "level": 1165,
+    "icon_id": 6827,
+    "last_updated": "2026-11-02T21:23:01.581196",
+    "last_match_id": "BR1_3300193970"
+  },
+  "189010116379541504": {
+    "riot_id": "210pedrin#2449",
+    "puuid": "i_lfv8GINXdXuWrCt2BAawqm-9s7AMBTSLFy3mt8yF1rkBbPnX99WmoallzewZl9xpwMfDnctnS-ZQ",
+    "tier": "PLATINUM",
+    "rank": "IV",
+    "lp": 74,
+    "level": 444,
+    "icon_id": 3186,
+    "last_updated": "2026-11-02T20:12:17.989126",
+    "last_match_id": "BR1_3300193970"
+  },
+  "248911102065377284": {
+    "riot_id": "Gallinho#2689",
+    "puuid": "KckZ2SQ92hhqR1JUcroC5cTzrxyXtJ7lJjp9b7HnLzyXLTOHe3VeYQV5sjdAdhhD4ENQVnVeJuf_Ug",
+    "tier": "BRONZE",
+    "rank": "III",
+    "lp": 80,
+    "level": 143,
+    "icon_id": 7178,
+    "last_updated": "2026-11-02T21:31:29.772487",
+    "last_match_id": "BR1_3300193970"
+  }
+}
